@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Muhammed-Fais
-- 👀 I’m interested in Machine Learning,Deep Learning, Artificial Intelligence,Data Science.
+- 👀 I’m interested in Machine Learning,Deep Learning, Artificial Intelligence and Data Science.
 - 🌱 I’m currently learning Machine Learning,Deep Learning.
 - 💞️ I’m looking to collaborate on Deep Learning Projects
 - 📫 Reach me ...fayismohd1123@gmail.com
